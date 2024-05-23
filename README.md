@@ -3,7 +3,7 @@ This repository contains Pytorch-based code implementing of paper "Improving Mul
 
 We CaQR can be applied to query embedding-based methodologies such as Query2Box, BetaE, and ConE.
 
-This repository is based on KGReasoning[link]
+This repository is based on KGReasoning([link])
 
 ## Implementation Detail
 
