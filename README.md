@@ -5,6 +5,6 @@ Our CaQR can be applied to query embedding-based methodologies such as Query2Box
 
 This repository is based on KGReasoning([link])
 
-![The figure of the global structural context and local relation-induced context and its application example on ip query](/.caqr.png)
+![CaQR applied on _ip_ query.](/.caqr.png)
 
 [link]: https://github.com/snap-stanford/KGReasoning
