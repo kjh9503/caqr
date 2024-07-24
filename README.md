@@ -32,7 +32,7 @@ bash cone_caqr.sh
 ```
 
 
-![CaQR applied on _ip_ query.](./fig/caqr.png)
+<!--![CaQR applied on _ip_ query.](./fig/caqr.png)-->
 
 [repo]: https://github.com/snap-stanford/KGReasoning
 [paper]: https://arxiv.org/abs/2406.07034
