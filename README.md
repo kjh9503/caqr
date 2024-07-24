@@ -12,6 +12,7 @@ This repository is based on KGReasoning([repo]).
 ## Basic Usage
 1. Make _data_ directory in _CaQR_ directory.
 2. Download the query dataset from [repo] and move them in _data_ directory.
+     (i.e., data/FB15k-237-betae, data/NELL-betae)
    
 ### Q2B
 To apply `CaQR` to Q2B, execute the following command from the _CaQR_ directory:
