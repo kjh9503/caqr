@@ -33,6 +33,7 @@ bash cone_caqr.sh
 
 ## Citing
 If `CaQR` is helpful in your research, we would appreciate it if you could cite our paper as follows:
+
 ```
 @article{kim2024improving,
   title={Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning},
