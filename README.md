@@ -14,8 +14,10 @@ This repository is based on KGReasoning([repo]).
 2. Download the query dataset from [dataset] and move them in _data_ directory (i.e., 'data/FB15k-237-betae', 'data/NELL-betae').
    
 ### Q2B
-To apply `CaQR` to Q2B, execute the following command from the _CaQR_ directory:
-
+To apply `CaQR` to Q2B, execute the shell file, _q2b_caqr.sh_ in the _CaQR/q2b_ directory:
+```bash
+sh q2b_caqr.sh
+```
 
 
 ![CaQR applied on _ip_ query.](./fig/caqr.png)
