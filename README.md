@@ -10,8 +10,13 @@ Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [B
 This repository is based on KGReasoning([repo]).
 
 ## Basic Usage
-
+1. Make `data` directory in `CaQR` directory.
+2. Download the query dataset from [repo] and move them in `data` directory.
+   
 ### Q2B
+To apply `CaQR` to Q2B, execute the following command from the `CaQR` directory:
+
+
 
 ![CaQR applied on _ip_ query.](./fig/caqr.png)
 
