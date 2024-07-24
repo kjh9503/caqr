@@ -16,7 +16,19 @@ This repository is based on KGReasoning([repo]).
 ### Q2B
 To apply `CaQR` to Q2B, execute the shell file, _q2b_caqr.sh_ in the _CaQR/q2b_ directory:
 ```bash
-sh q2b_caqr.sh
+bash q2b_caqr.sh
+```
+
+### BetaE
+To apply `CaQR` to BetaE, execute the shell file, _betae_caqr.sh_ in the _CaQR/betae_ directory:
+```bash
+bash betae_caqr.sh
+```
+
+### ConE
+To apply `CaQR` to ConE, execute the shell file, _cone_caqr.sh_ in the _CaQR/cone_ directory:
+```bash
+bash cone_caqr.sh
 ```
 
 
