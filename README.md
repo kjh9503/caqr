@@ -5,7 +5,7 @@ This repository contains Pytorch-based code implementing of paper "Improving Mul
 > Jeonghoon Kim, Heesoo Jung, Hyeju Jang, and Hogun Park\
 > Accepted at _Findings of the Association for Computational Linguistics, 2024_
 
-Our CaQR can be applied to query embedding-based methodologies such as Query2Box, BetaE, and ConE.
+Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [BetaE], and [ConE].
 
 This repository is based on KGReasoning([repo]).
 
@@ -17,3 +17,6 @@ This repository is based on KGReasoning([repo]).
 
 [repo]: https://github.com/snap-stanford/KGReasoning
 [paper]: https://arxiv.org/abs/2406.07034
+[Q2B]: https://arxiv.org/abs/2002.05969](https://iclr.cc/virtual_2020/poster_BJgr4kSFDS.html
+[BetaE]: https://proceedings.neurips.cc/paper/2020/hash/e43739bba7cdb577e9e3e4e42447f5a5-Abstract.html
+[ConE]: https://proceedings.neurips.cc/paper/2021/hash/a0160709701140704575d499c997b6ca-Abstract.html
