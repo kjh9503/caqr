@@ -31,6 +31,21 @@ To apply `CaQR` to ConE, execute the shell file, _cone_caqr.sh_ in the _CaQR/con
 bash cone_caqr.sh
 ```
 
+## Citing
+If `CaQR` is helpful in your research, we would appreciate it if you could cite our paper as follows:
+```
+@article{kim2024improving,
+  title={Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning},
+  author={Kim, Jeonghoon and Jung, Heesoo and Jang, Hyeju and Park, Hogun},
+  journal={arXiv preprint arXiv:2406.07034},
+  year={2024}
+}
+```
+
+
+
+
+
 
 <!--![CaQR applied on _ip_ query.](./fig/caqr.png)-->
 
