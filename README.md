@@ -1,5 +1,5 @@
 # CaQR
-This repository contains Pytorch-based code implementing of paper "Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning". ([link2])
+This repository contains Pytorch-based code implementing of paper "Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning". ([link])
 
 > Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning.\
 > Jeonghoon Kim, Heesoo Jung, Hyeju Jang, and Hogun Park\
@@ -12,4 +12,4 @@ This repository is based on KGReasoning([link])
 ![CaQR applied on _ip_ query.](./fig/caqr.png)
 
 [link]: https://github.com/snap-stanford/KGReasoning
-[link2] : https://arxiv.org/abs/2406.07034
+[link] : https://arxiv.org/abs/2406.07034
