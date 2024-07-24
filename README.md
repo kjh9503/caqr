@@ -10,11 +10,11 @@ Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [B
 This repository is based on KGReasoning([repo]).
 
 ## Basic Usage
-1. Make `data` directory in `CaQR` directory.
-2. Download the query dataset from [repo] and move them in `data` directory.
+1. Make _data_ directory in _CaQR_ directory.
+2. Download the query dataset from [repo] and move them in _data_ directory.
    
 ### Q2B
-To apply `CaQR` to Q2B, execute the following command from the `CaQR` directory:
+To apply `CaQR` to Q2B, execute the following command from the _CaQR_ directory:
 
 
 
