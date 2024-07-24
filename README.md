@@ -31,7 +31,7 @@ To apply `CaQR` to ConE, execute the shell file, _cone_caqr.sh_ in the _CaQR/con
 bash cone_caqr.sh
 ```
 
-## Citing
+## Citation
 If `CaQR` is helpful in your research, we would appreciate it if you could cite our paper as follows:
 
 ```
