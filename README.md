@@ -35,11 +35,23 @@ bash cone_caqr.sh
 If `CaQR` is helpful in your research, we would appreciate it if you could cite our paper as follows:
 
 ```
-@article{kim2024improving,
-  title={Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning},
-  author={Kim, Jeonghoon and Jung, Heesoo and Jang, Hyeju and Park, Hogun},
-  journal={arXiv preprint arXiv:2406.07034},
-  year={2024}
+@inproceedings{kim-etal-2024-improving-multi,
+    title = "Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning",
+    author = "Kim, Jeonghoon  and
+      Jung, Heesoo  and
+      Jang, Hyeju  and
+      Park, Hogun",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.946",
+    pages = "15978--15991",
+    abstract = "Multi-hop logical reasoning on knowledge graphs is a pivotal task in natural language processing, with numerous approaches aiming to answer First-Order Logic (FOL) queries. Recent geometry (e.g., box, cone) and probability (e.g., beta distribution)-based methodologies have effectively addressed complex FOL queries. However, a common challenge across these methods lies in determining accurate geometric bounds or probability parameters for these queries. The challenge arises because existing methods rely on linear sequential operations within their computation graphs, overlooking the logical structure of the query and the relation-induced information that can be gleaned from the relations of the query, which we call the context of the query. To address the problem, we propose a model-agnostic methodology that enhances the effectiveness of existing multi-hop logical reasoning approaches by fully integrating the context of the FOL query graph. Our approach distinctively discerns (1) the structural context inherent to the query structure and (2) the relation-induced context unique to each node in the query graph as delineated in the corresponding knowledge graph. This dual-context paradigm helps nodes within a query graph attain refined internal representations throughout the multi-hop reasoning steps. Through experiments on two datasets, our method consistently enhances the three multi-hop reasoning foundation models, achieving performance improvements of up to 19.5{\%}. Our codes are available at https://github.com/kjh9503/caqr.",
 }
 ```
 
