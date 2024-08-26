@@ -35,11 +35,17 @@ bash cone_caqr.sh
 If `CaQR` is helpful in your research, we would appreciate it if you could cite our paper as follows:
 
 ```
-@article{kim2024improving,
-  title={Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning},
-  author={Kim, Jeonghoon and Jung, Heesoo and Jang, Hyeju and Park, Hogun},
-  journal={arXiv preprint arXiv:2406.07034},
-  year={2024}
+@inproceedings{kim-etal-2024-improving-multi,
+    title = "Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning",
+    author = "Kim, Jeonghoon  and
+      Jung, Heesoo  and
+      Jang, Hyeju  and
+      Park, Hogun",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    pages = "15978--15991",
 }
 ```
 
