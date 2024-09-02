@@ -10,9 +10,9 @@ Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [B
 This repository is based on KGReasoning([repo]).
 
 ## Requirements
-python==3.9.15
-torch==1.13.1
-tensorboard==2.11.0
+python==3.9.15\
+torch==1.13.1\
+tensorboard==2.11.0\
 tqdm
 
 
