@@ -3,7 +3,7 @@ This repository contains Pytorch-based code implementing of paper "Improving Mul
 
 > Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning.\
 > Jeonghoon Kim, Heesoo Jung, Hyeju Jang, and Hogun Park\
-> Accepted at _Findings of the Association for Computational Linguistics, 2024_
+> _Findings of the Association for Computational Linguistics, 2024_
 
 Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [BetaE], and [ConE].
 
