@@ -9,6 +9,13 @@ Our CaQR can be applied to query embedding-based methodologies such as [Q2B], [B
 
 This repository is based on KGReasoning([repo]).
 
+## Requirements
+python==3.9.15
+torch==1.13.1
+tensorboard==2.11.0
+tqdm
+
+
 ## Basic Usage
 1. Make _data_ directory in _CaQR_ directory.
 2. Download the query dataset from [the drive] and move them in _data_ directory (i.e., 'data/FB15k-237-betae', 'data/NELL-betae').
